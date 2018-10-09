@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/aaomidi/go-knapsack/knapsack"
 	"math/big"
+
+	"github.com/aaomidi/go-knapsack/knapsack"
 )
 
 func main() {
